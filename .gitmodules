@@ -1,0 +1,3 @@
+[submodule "lib/simple-statistics"]
+	path = lib/simple-statistics
+	url = https://github.com/tmcw/simple-statistics
